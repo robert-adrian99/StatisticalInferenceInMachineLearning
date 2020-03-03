@@ -1,3 +1,3 @@
 # ISML
-Cursuri
-Laboratoare
+1. Cursuri
+2. Laboratoare
