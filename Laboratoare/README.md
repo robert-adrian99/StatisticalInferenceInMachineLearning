@@ -1,2 +1,0 @@
-# ISML
-Laboratoare ISML
