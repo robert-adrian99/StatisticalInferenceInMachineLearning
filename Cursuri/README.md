@@ -1,2 +1,0 @@
-# ISML
-Cursuri ISML
